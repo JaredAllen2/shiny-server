@@ -7,7 +7,6 @@
 #    http://shiny.rstudio.com/
 #
 
-install.packages("flexdashboard")
 library(flexdashboard)
 library(shiny)
 
